@@ -16,6 +16,7 @@ This repository contains my internship report, project work, and completion cred
 | **Internship Domain** | MERN Full Stack Development + Project |
 | **Duration** | 8 Weeks (August 2026 – October 2026) |
 | **AICTE Student ID** | `STU69ebb4588f93c1777054808` |
+| **GitHub** | `https://github.com/Sanjiv-9422` |
 
 ---
 
